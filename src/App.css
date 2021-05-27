@@ -10,7 +10,7 @@
 }
 
 body{
-  font-family: "Roboto Condensed" sans-serif;
+  font-family: "Roboto Condensed", sans-serif !important;
 }
 /*******************Navbar*******************/
 nav{
@@ -60,7 +60,7 @@ nav ul li {
 
 .header-wraper{
   position: relative;
-  background: url(code-laptop-photo.jpg) no-repeat;
+  background: url(code-laptop-photo-2.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
   height: 90vh;
@@ -127,5 +127,31 @@ margin: 2rem;
 @media(max-width:768px){
   .particles-canvas{
     display: none;
+  }
+}
+
+.photo-wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img{
+  width: 18rem;
+  border:1px solid var(--primary-orange);
+  border-radius:50%;
+  width:300px;
+  height:300px;
+  padding: .33rem;
+}
+
+.about-heading{
+  color: var(--primary-orange);
+  text-transform: uppercase;
+}
+
+@media(max-width: 468px){
+  .profile-img{
+    width: 18rem;
   }
 }

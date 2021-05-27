@@ -10,7 +10,7 @@ function Header() {
                 typeSpeed={40}
                 backSpeed={60}
                 loop/>
-                <a href="#" className="btn-main-offer">Contact me</a>
+                <a href="https://www.udemy.com/course/build-portfolio-with-reactjs-and-bootstrap/learn/lecture/24019076#questions" className="btn-main-offer">Contact me</a>
             </div>
         </div>
     )
