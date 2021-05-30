@@ -59,7 +59,7 @@ nav ul li {
  
 }
 
-.navbar-nav > li > a.active, .navbar-nav > li > a.active:focus {
+.navbar-nav > li > a.active, .navbar-nav > li > a:focus {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
@@ -72,7 +72,7 @@ nav ul li {
   background: url(code-laptop-photo-2.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info{
@@ -360,6 +360,10 @@ margin: 2rem;
 
 }
 
+.popupbox-wrapper{
+  margin-top: 5rem;
+}
+
 @media(max-width: 768px){
  
    .portfolio-image-popupbox{
@@ -490,4 +494,41 @@ textarea.form-control{
 .success-message{
    font-weight: 900;
    color: green;
+}
+
+/*******************Footer***********/
+
+.footer{
+  background: var(--primary-black);
+  color: var(--primary-dark-grey);
+  padding: 2.5rem;
+}
+
+.footer a{
+  text-decoration: none;
+  color: var(--primary-dark-grey);
+}
+
+.footer a:hover{
+  text-decoration: none;
+  color: #039dfc;
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
+}
+
+.footer-icon{
+  font-size: 1.5rem;
+  margin-right: .5rem;
+  
+}
+.footer-icon-github:hover{
+  font-size: 1.5rem;
+  color: rgb(21, 163, 21);
+}
+
+.footer-icon-style{
+ 
 }

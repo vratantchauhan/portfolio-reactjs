@@ -38,7 +38,7 @@ function Contact() {
       }
 
     return (
-        <div className="contact">
+        <div id="contact" className="contact">
             <div className="text-center">
                 <h1>Contact me</h1>
                 <p>Please fill in the details to reach me via email.</p>
