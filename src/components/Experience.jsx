@@ -21,7 +21,7 @@ function Experience() {
                 <div className="timeline-block timeline-block-left">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>May 2017 - Aug2017</h3>
+                        <h3>May 2017 - Aug 2017</h3>
                         <p>OMAN TRADING ESTABLISHMENTS | Web Developer <br />
                         (Internship) <br />
                         • Created product listings, registration, login, logout for their website using the

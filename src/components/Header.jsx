@@ -4,9 +4,9 @@ function Header() {
     return (
         <div className="header-wraper">
             <div className="main-info">
-                <h1>web dev.</h1>
+                <h1>web developer</h1>
                 <Typed className="typed-text" 
-                strings={["Java developer", "React developer"]}
+                strings={["Java Developer", "React Developer"]}
                 typeSpeed={40}
                 backSpeed={60}
                 loop/>
