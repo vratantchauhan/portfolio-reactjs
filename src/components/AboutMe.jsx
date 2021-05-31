@@ -7,22 +7,22 @@ function AboutMe() {
                 <div className="row">
                     <div className="col-lg-6 col-xm-12">
                         <div className="photo-wrap mb-5">
-                        <img className="profile-img" src={Me} alt="author..." />
+                            <img className="profile-img" src={Me} alt="author..." />
                         </div>
                     </div>
                     <div className="col-lg-6 col-xm-12">
                         <h1 className="about-heading">About me</h1>
                         <p>
-                            Software Development Engineer graduated with a Master’s degree in Computer Science
-                            from the University of Texas
-                            along with experience in website/application development and automated testing.
+                            I am Vratant Chauhan, from Noida, India and currently residing in Arlington, Texas.
+                            I have graduated with a Master’s degree in Computer Science from the University of Texas
+                            along with experience in website/application development and automated testing. 
+                            I have worked on several projects while persuing my Master’s and Bachelor's degree, as a result of which 
+                            I have developed skills which will be useful in my professional career. 
+                            I am motivated to persue Software Development as a profession and contribute to the society. 
+                            As a professional I see my self working as a team player who utilizes communication and positive nature 
+                            to work better and build strong relationships with my colleagues.
                     </p>
-                        <p>
-                            Full stack web developer and testing. Language and frameworks of choice : <br />
-                            <strong>Backend: </strong>Java, Spring MVC, Spring Boot, Hibernate  <br />
-                            <strong>Frontend: </strong>JavaScript, React <br />
-                            <strong>Testing: </strong>JUnit, PIT Mutation, Selenium and JaCoCo code coverage for testing.
-                    </p>
+                        
                     </div>
                 </div>
             </div>

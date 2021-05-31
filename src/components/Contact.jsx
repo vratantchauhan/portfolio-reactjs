@@ -123,7 +123,7 @@ function Contact() {
                         
                     </div>
                     <div className="col-md-6 col-xs-12">
-                        <div className="text-center">
+                        <div className="text-center email-body">
                             <textarea type="text" placeholder="Email body" name="body" className="form-control" 
                             aria-invalid={errors.subject ? "true" : "false"}
                             {...register("body", {

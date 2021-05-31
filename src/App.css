@@ -452,6 +452,7 @@ top: 0;
   display: inline-block;
 }
 
+
 input:focus+.line, textarea:focus+.line{
   width: 100%;
   transition: width 0.5s ease-in-out;
@@ -463,6 +464,8 @@ input.form-control{
 textarea.form-control{
   margin: -0.3rem 0;
 }
+
+
 
 @media(max-width:768px){
   .contact{

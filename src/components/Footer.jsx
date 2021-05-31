@@ -1,6 +1,7 @@
 import React from 'react'
 import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {Link } from "react-scroll"
 function Footer() {
     return (
         <div className="footer">
@@ -25,19 +26,19 @@ function Footer() {
                     <div className="col-lg-3 col-md-2 col-sm-6">
                         <div className="row">
                             <div className="col">
-                                <a href="#" className="footer-nav">Home</a>
+                                <Link  smooth={true} to="home" offset={-14} href="#" className="footer-nav">Home</Link>
                                 <br />
-                                <a href="#" className="footer-nav">About me</a>
+                                <Link  smooth={true} to="about" offset={-14} href="#" className="footer-nav">About me</Link>
                                 <br />
-                                <a href="#" className="footer-nav">Services</a>
+                                <Link  smooth={true} to="services" offset={-14} href="#" className="footer-nav">Skills</Link>
                                 
                             </div>
                             <div className="col">
-                                <a href="#" className="footer-nav">Experience</a>
+                                <Link  smooth={true} to="experience" offset={-14} href="#" className="footer-nav">Experience</Link>
                                 <br />
-                                <a href="#" className="footer-nav">Projects</a>
+                                <Link  smooth={true} to="projects" offset={-14} href="#" className="footer-nav">Projects</Link>
                                 <br />
-                                <a href="#" className="footer-nav">Contacts</a>
+                                <Link  smooth={true} to="contact" offset={-14} href="#" className="footer-nav">Contacts</Link>
                             </div>
                         </div>
                     </div>
