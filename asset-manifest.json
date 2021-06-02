@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-reactjs/static/css/main.d79ee9e1.chunk.css",
+    "main.js": "/portfolio-reactjs/static/js/main.87a030a7.chunk.js",
+    "main.js.map": "/portfolio-reactjs/static/js/main.87a030a7.chunk.js.map",
+    "runtime-main.js": "/portfolio-reactjs/static/js/runtime-main.77f60af4.js",
+    "runtime-main.js.map": "/portfolio-reactjs/static/js/runtime-main.77f60af4.js.map",
+    "static/css/2.301e199a.chunk.css": "/portfolio-reactjs/static/css/2.301e199a.chunk.css",
+    "static/js/2.5a30ec32.chunk.js": "/portfolio-reactjs/static/js/2.5a30ec32.chunk.js",
+    "static/js/2.5a30ec32.chunk.js.map": "/portfolio-reactjs/static/js/2.5a30ec32.chunk.js.map",
+    "static/js/3.8cc47821.chunk.js": "/portfolio-reactjs/static/js/3.8cc47821.chunk.js",
+    "static/js/3.8cc47821.chunk.js.map": "/portfolio-reactjs/static/js/3.8cc47821.chunk.js.map",
+    "index.html": "/portfolio-reactjs/index.html",
+    "static/css/2.301e199a.chunk.css.map": "/portfolio-reactjs/static/css/2.301e199a.chunk.css.map",
+    "static/css/main.d79ee9e1.chunk.css.map": "/portfolio-reactjs/static/css/main.d79ee9e1.chunk.css.map",
+    "static/js/2.5a30ec32.chunk.js.LICENSE.txt": "/portfolio-reactjs/static/js/2.5a30ec32.chunk.js.LICENSE.txt",
+    "static/media/CSAC.0b90f5e0.jpg": "/portfolio-reactjs/static/media/CSAC.0b90f5e0.jpg",
+    "static/media/amazon-clone.09ca51ac.png": "/portfolio-reactjs/static/media/amazon-clone.09ca51ac.png",
+    "static/media/App.css": "/portfolio-reactjs/static/media/code-laptop-photo-2.6abf028b.jpeg",
+    "static/media/covid-tracker.e9227af3.png": "/portfolio-reactjs/static/media/covid-tracker.e9227af3.png",
+    "static/media/icons8-java.5386b56c.svg": "/portfolio-reactjs/static/media/icons8-java.5386b56c.svg",
+    "static/media/icons8-react.e7574af2.svg": "/portfolio-reactjs/static/media/icons8-react.e7574af2.svg",
+    "static/media/icons8-selenium.110b748c.svg": "/portfolio-reactjs/static/media/icons8-selenium.110b748c.svg",
+    "static/media/icons8-spring-logo.b39d866e.svg": "/portfolio-reactjs/static/media/icons8-spring-logo.b39d866e.svg",
+    "static/media/me.f5283d58.jpg": "/portfolio-reactjs/static/media/me.f5283d58.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f60af4.js",
+    "static/css/2.301e199a.chunk.css",
+    "static/js/2.5a30ec32.chunk.js",
+    "static/css/main.d79ee9e1.chunk.css",
+    "static/js/main.87a030a7.chunk.js"
+  ]
+}
